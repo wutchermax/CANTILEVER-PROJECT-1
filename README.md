@@ -1,5 +1,5 @@
 # CANTILEVER-PROJECT-1
-E-commerce
+
 TASK - Product page for an e-commerce site that displays product details, images, prices, and reviews.
 and features like image carousels
 User registration and login/logout functionality filtering and sorting options.

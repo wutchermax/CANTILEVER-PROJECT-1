@@ -1,0 +1,19 @@
+frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── ProductDetail.js
+│   │   ├── ProductImageCarousel.js
+│   │   ├── ProductReviews.js
+│   │   └── ...
+│   ├── pages/
+│   │   ├── ProductPage.js
+│   │   ├── LoginPage.js
+│   │   ├── RegistrationPage.js
+│   │   └── ...
+│   ├── App.js
+│   ├── index.js
+│   ├── App.css
+│   └── index.css
+└── package.json
